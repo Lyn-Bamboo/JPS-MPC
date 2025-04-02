@@ -9,7 +9,7 @@ The project has been tested on Ubuntu 20.04 (ROS noetic). The backend optimizer 
 Then simply run this commands:
 
 ```bash
-git clone https://github.com/mit-acl/mader.git
+git clone https://github.com/Lyn-Bamboo/JPS-MPC.git
 cd JPS-MPC
 catkin build
 source devel/setup.bash
