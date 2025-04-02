@@ -18,3 +18,6 @@ roslaunch grid_path_searcher demo.launch
 
 You will find the random map in ```Rviz```. You can select goals using the ```3D Nav Goal``` tool. 
 
+<p align = "center">
+<img src="JPS-MPC.png" width="800" height="600" />
+</p>
